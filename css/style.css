@@ -1,0 +1,81 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: linear-gradient(0, rgba(255, 255, 25, .1), rgba(255, 255, 255, .1)), url("../img/NASAGalaxia.jpg");
+  margin:0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 8rem;
+  font-family: 'Josefin Sans', sans-serif;  
+}
+
+.top {
+  margin-top: 8vh;
+  text-align: center;
+}
+
+.userInput {
+  margin: 0 auto;
+  max-width: 90vw;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 1.2rem;
+}
+
+input {
+    width: 150px;
+    height: 30px;
+    background-color: rgba(255, 255, 255, .8);
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    
+  }
+
+button {
+  width: 150px;
+  height: 30px;
+  background-color:  rgba(255, 255, 255, .8);
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 90vw;
+}
+.explanation {
+  max-width: 90vw;
+  margin-left: 5%;
+  border: 1px red solid;
+  color: black;
+  background-color: rgba(255, 255, 255, .8);
+}
+ 
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
