@@ -99,3 +99,16 @@ img {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+@media (max-width: 500px) {
+h1 {
+  font-size: 5rem;
+}
+input {
+  font-size: 18px;
+}
+button {
+  font-size: 4rem;
+}
+}
+
