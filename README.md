@@ -1,9 +1,7 @@
 
-
-
 # Stars Speak
 
-[PLACE_FOR_YOUR_IMAGE]
+
 
 https://marianawest.github.io/starsSpeak/
 
